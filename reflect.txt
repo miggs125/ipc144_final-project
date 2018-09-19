@@ -1,0 +1,11 @@
+1.findContactIndex and getTenDigitPhone benefit the source code by greatly simplyfing it.
+This is accomplished by increasing the readability of the code, making debugging simpler
+and allowing these functions to be used within other functions that prevents having to write
+redundant lines of code. These functions ensure other functions work properly by providing them
+with valid input from the user.
+
+2. I learned a lot from this assignment. Mainly how variables and values can be passed
+around to different functions and what happens to a variable when it is sent and altered
+in a different function. I also learned about pointers and now possess a better understanding as
+to how the computer handles memory allocation in particular when it comes to arrays and structures.
+
